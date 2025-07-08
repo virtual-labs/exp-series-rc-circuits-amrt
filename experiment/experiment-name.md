@@ -1,1 +1,1 @@
-## Experiment name
+## Series RC Circuits
