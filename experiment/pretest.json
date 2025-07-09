@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The SI unit of capacitance is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Farad",
+        "b": "coulomb",
+        "c": "volt",
+        "d": "Ampere"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. The Farad (F) is the SI unit of capacitance.",
+        "b": "Incorrect. Coulomb is the unit of charge.",
+        "c": "Incorrect. Volt is the unit of potential difference.",
+        "d": "Incorrect. Ampere is the unit of current."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The electrical conductivity is the reciprocal of electrical",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "inductance",
+        "b": "resistivity",
+        "c": "capacitance",
+        "d": "none of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Inductance is not related to conductivity.",
+        "b": "Correct. Conductivity = 1 / resistivity.",
+        "c": "Incorrect. Capacitance is unrelated to conductivity.",
+        "d": "Incorrect. A valid option is available."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
