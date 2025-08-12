@@ -34,6 +34,57 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The ratio of effective value of current to that of average value of current is known as",
+      "answers": {
+        "a": "form factor",
+        "b": "virtual volt",
+        "c": "virtual ampere",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "Correct. Form factor = RMS value / Average value.",
+        "b": "Incorrect. This term is not standard.",
+        "c": "Incorrect. This term is not standard.",
+        "d": "Incorrect. There is a standard term available."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At constant temperature the current flowing through a conductor is directly proportional to the potential difference between its ends.",
+      "answers": {
+        "a": "Chebyshev's Current Law.",
+        "b": "Lenz's Current Law.",
+        "c": "Norton's Current Law.",
+        "d": "Ohm's law"
+      },
+      "explanations": {
+        "a": "Incorrect. This law is not related to electricity.",
+        "b": "Incorrect. Lenz's law relates to electromagnetic induction.",
+        "c": "Incorrect. Norton's law deals with circuit equivalence.",
+        "d": "Correct. Ohm’s law defines this proportional relationship."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In general, in an AC circuit contains__________.",
+      "answers": {
+        "a": "The average value of current is zero.",
+        "b": "The average value of square of the current is zero.",
+        "c": "average power dissipation is zero.",
+        "d": "The phase difference between current and voltage is zero."
+      },
+      "explanations": {
+        "a": "Correct. Average of a full sine wave current over a cycle is zero.",
+        "b": "Incorrect. The average of square is not zero (basis of RMS).",
+        "c": "Incorrect. Depends on circuit type (e.g., resistive has power dissipation).",
+        "d": "Incorrect. Phase difference varies based on R, L, C elements."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
   ]
 }
